@@ -3,11 +3,9 @@ System.out.println("hello");
 System.out.println("hello");
 System.out.println("Hi");
 System.out.println("remote");
-<<<<<<< HEAD
-System.out.println("New");
+System.out.println("remote101");
 System.out.println("changes to feature101");
 changes to feature101
-=======
->>>>>>> f5db9091252fb2a622d82d36f524948227f22dc4
+
 }
 }
